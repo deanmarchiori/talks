@@ -2,15 +2,15 @@
 
 **Upcoming lightning talk**  
 **Date:** 2021-01-21  
-**Venue:** rstudio::global(2021 conference  
+**Venue:** rstudio::global(2021 conference)  
 [**Link**]("https://rstudio.com/conference/")     
 
-**Going Full Circle**
+**Going Full Circle**  
 **Date:** 2020-03-25  
 **Venue:** Smarter Data People Podcast  
 [**Link**](https://smarterdatapeople.com/episode/dean-marchiori)  
 
-**Pearls and Pitfalls of Time Series Analysis Using Google Analytics Data**
+**Pearls and Pitfalls of Time Series Analysis Using Google Analytics Data**  
 **Date:** 2019-11-28  
 **Venue:** Monash University, Melbourne  
 [**Link**](https://www.monash.edu/business/wombat2019)  
@@ -21,7 +21,7 @@
 **Venue:** University of Wollongong, SMART Infrastructure Facility  
 [**Link**](https://internetrix.github.io/r-for-research/)  
 
-**Unsupervised Outlier Detection Systems for e-commerce**
+**Unsupervised Outlier Detection Systems for e-commerce**  
 **Date:** 2018-10-16  
 **Venue:** University of Wollongong, SMART Infrastructure Facility  
 [**Link**](https://news.eis.uow.edu.au/event/unsupervised-outlier-detection-systems-for-e-commerce/)  
