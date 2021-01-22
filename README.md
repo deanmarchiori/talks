@@ -3,8 +3,8 @@
 **Upcoming lightning talk**  
 **Date:** 2021-01-21  
 **Venue:** rstudio::global(2021 conference)  
-[**Link**]("https://global.rstudio.com/student/page/40606")   
-[**Slides**]("https://drive.google.com/file/d/1hsnsRC2Nz9YrTKiQTSK0OP221ZNQyVgP/view?usp=sharing")  
+[**Link**](https://global.rstudio.com/student/page/40606)   
+[**Slides**](https://drive.google.com/file/d/1hsnsRC2Nz9YrTKiQTSK0OP221ZNQyVgP/view?usp=sharing)  
 
 **Going Full Circle**  
 **Date:** 2020-03-25  
