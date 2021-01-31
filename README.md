@@ -1,9 +1,9 @@
 # Talks
 
-**Upcoming lightning talk**  
+**How reproducible am I? A retrospective on a year of commercial data science projects in R**  
 **Date:** 2021-01-21  
-**Venue:** rstudio::global(2021 conference)  
-[**Link**](https://global.rstudio.com/student/page/40606)   
+**Venue:** rstudio::global(2021) conference  
+[**Link**](https://resources.rstudio.com/resources/rstudioglobal-2021/how-reproducible-am-i-a-retrospective-on-a-year-of-commercial-data-science-projects-in-r/)   
 [**Slides**](https://drive.google.com/file/d/1hsnsRC2Nz9YrTKiQTSK0OP221ZNQyVgP/view?usp=sharing)  
 
 **Going Full Circle**  
